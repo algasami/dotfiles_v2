@@ -10,6 +10,9 @@ opt.expandtab = true
 opt.syntax = "on"
 opt.background = "dark"
 
+opt.timeoutlen = 1000
+opt.ttimeoutlen = 10
+
 cmd.colorscheme("tokyonight")
 
 cmd([[
